@@ -1,8 +1,5 @@
 package Tugas;
 
-/**
- * Petugas
- */
 public class Petugas {
     private String idPetugas, nama;
     static int n=0;
